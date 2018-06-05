@@ -6,7 +6,7 @@ The objective of this project was to design a basic VR puzzle game using the Uni
 I found that my original concept did not vary much while I went through the process of building it out.  I feel that adding the extra touches of polish added quite a bit to the experience and atmosphere.  During testing, I received feedback stating that the additions of some of the extra animations, sound effects, and higher quality assets made the experience a bit more immersive.  The only area I would have liked to iterate more on was the terrain/backdrop, as it was not as detailed as the rest of the scene.  
 
 #### Demo Video
-[![Puzzler Demo](https://www.youtube.com/upload_thumbnail?v=uju2j0xXLVo&t=1)](https://youtu.be/uju2j0xXLVo)
+[![Puzzler Demo](https://github.com/jthom330/Puzzler/blob/master/Puzzler/Screenshots/Main_Puzzle.png)](https://youtu.be/uju2j0xXLVo)
 
 ## Development
 
@@ -15,7 +15,7 @@ I liked the original idea presented in the course of using a dungeon style setti
 
 Original Level Design Sketch: 
 
-![alt text](https://github.com/.png "Level Sketch")
+![Sketch](https://github.com/jthom330/Puzzler/blob/master/Puzzler/Screenshots/sketch.png "Level Sketch")
 
 ### Audience
 I decided to cater more to users who have had some casual VR experience in the past.  I chose this audience because I believe that is the largest target audience that would be trying out mobile VR experiences such as these.  Below is a persona I had in mind when designing the original concept.  
@@ -61,8 +61,8 @@ For this project I did two rounds of testing.  The first round was right after g
 
 Finished Game Screenshots:
 
-![alt text](https://github.com/.png "Screenshot")
-![alt text](https://github.com/.png "Screenshot")
+![Screenshot](https://github.com/jthom330/Puzzler/blob/master/Puzzler/Screenshots/Start_UI.png "Screenshot")
+![Screenshot](https://github.com/jthom330/Puzzler/blob/master/Puzzler/Screenshots/Halo_Effect.png "Screenshot")
 
 Given my past experience with Unity, I did not learn much new material in terms of Unity's capability or how to implement functionality using it.  However, I took this project as an opportunity to focus on areas that I have less experience with.  In this case that would be level design and creating atmosphere.  In the past I have usually contributed primarily to game play mechanics, so this exposure to atmosphere and level creation was an interesting new experience.  
 
